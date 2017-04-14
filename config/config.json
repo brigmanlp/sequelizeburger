@@ -1,55 +1,16 @@
 {
     "development": {
-        "username": "root",
-        "password": "root",
-        "database": "greenPoints",
-        "host": "127.0.0.1",
-        "dialect": "mysql"
-    },
-    "louremy": {
-        "username": "root",
-        "password": "root",
-        "database": "greenPoints",
-        "port": 8889,
-        "host": "127.0.0.1",
-        "dialect": "mysql"
-    },
-    "christina": {
-        "username": "root",
-        "password": "Welcome08*",
-        "database": "greenPoints",
-        "host": "127.0.0.1",
-        "dialect": "mysql"
-    },
-    "meredith": {
-        "username": "root",
-        "password": "root",
-        "database": "greenPoints",
-        "port": 8889,
-        "host": "127.0.0.1",
-        "dialect": "mysql"
-    },
-    "jasmine": {
-        "username": "root",
-        "password": "Adi0304!",
-        "database": "greenPoints",
-        "port": 3306,
-        "host": "127.0.0.1",
-        "dialect": "mysql"
-    },
-    "hannah": {
-        "username": "root",
-        "password": "hking5484",
-        "database": "greenpoints",
-        "host": "127.0.0.1",
-        "port": 8889,
+        "username": "g2loaxsyh9xynpua",
+        "password": "u2fzbs68wxlf5ebf",
+        "database": "ws6oirpu8bp6ddat",
+        "host": "o3iyl77734b9n3tg.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "dialect": "mysql"
     },
     "test": {
-        "username": "root",
-        "password": null,
-        "database": "greenPoints",
-        "host": "127.0.0.1",
+        "username": "g2loaxsyh9xynpua",
+        "password": "c44tbreyimsk7rnw",
+        "database": "ws6oirpu8bp6ddat",
+        "host": "o3iyl77734b9n3tg.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "dialect": "mysql"
     },
     "production": {

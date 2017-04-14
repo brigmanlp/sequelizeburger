@@ -1,38 +1,33 @@
 {
-    "name": "greencharlotte",
+    "name": "sequelizeburger",
     "version": "1.0.0",
-    "description": "Project utilizing Node, Express Web Server, MySQL database with Sequelize ORM.",
+    "description": "Project utilizing Node, Express Web Server, MySQL database with Sequelize.",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "development": "node server.js",
-        "production": "node server.js",
-        "hannah": "NODE_ENV=hannah node server.js",
-        "louremy": "NODE_ENV=louremy node server.js",
-        "meredith": "NODE_ENV=meredith node server.js",
-        "jasmine": "set NODE_ENV=jasmine&& node server.js",
-        "christina": "set NODE_ENV=christina&& node server.js"
+        "production": "node server.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/brigmanlp/Project2.git"
+        "url": "git+https://github.com/brigmanlp/sequelizeburger"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/brigmanlp/Project2/issues"
+        "url": "https://github.com/brigmanlp/sequelizeburger/issues"
     },
     "engines": {
         "node": "7.2.1",
         "npm": "3.10.9"
     },
-    "homepage": "https://github.com/brigmanlp/Project2#readme",
+    "homepage": "https://github.com/brigmanlp/sequelizeburger#readme",
     "dependencies": {
-        "auth0-lock": "^10.14.0",
         "body-parser": "^1.17.1",
         "express": "^4.15.2",
+        "express-handlebars": "^3.0.0",
+        "method-override": "^2.3.8",
         "mysql": "^2.13.0",
-        "pg": "^6.1.5",
-        "sequelize": "^3.30.2"
+        "sequelize": "^3.30.4"
     }
 }
